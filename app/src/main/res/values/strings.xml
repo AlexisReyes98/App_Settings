@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App_Settings</string>
+
+    <string name="my_image_description">Img</string>
+    <string name="my_mode_description">Modo oscuro</string>
+    <string name="my_modeText_description">Activa el modo oscuro para un cambio visual</string>
+    <string name="my_bluetooth_description">Activar Bluetooth</string>
+    <string name="my_earphones_description">Conecta dispositivos sin cables</string>
+    <string name="my_volume_description">Subir volumen</string>
+    <string name="my_phone_description">Vibrar en llamadas</string>
+</resources>
